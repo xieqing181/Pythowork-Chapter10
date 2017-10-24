@@ -1,0 +1,3 @@
+In Python you can create a function
+In Python you can build a class
+In Python you can deal massive data in short time
